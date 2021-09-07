@@ -1,0 +1,2 @@
+D:\Projects\RNS-APAL-EC_DEMO-V0.200\Debug\RNS-APAL.exe
+D:\Projects\RNS-APAL-EC_DEMO-V0.200\Debug\RNS-APAL.pdb

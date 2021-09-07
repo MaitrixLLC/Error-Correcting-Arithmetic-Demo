@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Error_correct.cpp
+D:\Projects\RNS-APAL-EC_DEMO-V0.200\Error_correct.cpp(80,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Projects\RNS-APAL-EC_DEMO-V0.200\Error_correct.cpp(443,6): warning C4101: 'input': unreferenced local variable
+D:\Projects\RNS-APAL-EC_DEMO-V0.200\Error_correct.cpp(620,5): warning C4101: 'i': unreferenced local variable
+D:\Projects\RNS-APAL-EC_DEMO-V0.200\Error_correct.cpp(735,9): warning C4101: 'j': unreferenced local variable
+  primemod1.vcxproj -> D:\Projects\RNS-APAL-EC_DEMO-V0.200\Debug\RNS-APAL.exe
